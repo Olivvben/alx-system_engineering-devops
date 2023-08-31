@@ -1,2 +1,2 @@
 #!/bin/bash
-su chwon hello betty
+su chwon betty hello
